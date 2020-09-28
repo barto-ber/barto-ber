@@ -1,7 +1,5 @@
 ### Hi there!!! 😄
 
-<!--
-**barto-ber/barto-ber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I’m Bart and I’m a Data Scientist with over ⚡15 years/' experience in finance. A few things about me, I wrote my first code in Python to automate some financial reporting in my day-to-day job as CFO and got excited about Python and later Data Science so I know how to solve problems by my own using new technologies. On the technical side, during my data science studies I built a nice web scraper for a web radio I like. I also started a project for analyzing an accountancy system with machine learning algorithms i.e. outliers detection.
 
