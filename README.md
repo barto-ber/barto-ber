@@ -11,6 +11,6 @@ In addition, I’m obsessed with digging deeper into Big Data. As a result, I’
 So guess, I’m looking for a junior position in Data Science and would be happy if you are looking for somebody like me👯!
 
 
-- 🔭 I’m currently working on improvement of my Data Science % Machine Learning skills.
+- 🔭 I’m currently working on improvement of my Data Science & Machine Learning skills.
 - 🌱 I’m currently learning Apache Spark, Kafka.
 
