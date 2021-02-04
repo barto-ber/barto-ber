@@ -8,9 +8,6 @@ A few things about me, I wrote my first code in Python to automate some financia
 In addition, I’m obsessed with digging deeper into Big Data. As a result, I’m currently learning some technologies like Apache Spark and Airflow to build an app with streaming data. I just finished a Big Data project with Kafka & Spark Structured Streaming for Sentiment Analysis ([link](https://github.com/barto-ber/Big-Data-Projects/tree/master/Structured%20Streaming%20Project)) and I found it fantastic.
 
 
-So guess, I’m looking for a junior position in Data Science and would be happy if you are looking for somebody like me👯!
-
-
 - 🔭 I’m currently working on improvement of my Data Science & Machine Learning skills.
-- 🌱 I’m currently learning Apache Spark, Kafka.
+- 🌱 I’m currently learning Apache Spark, Kafka, Hadoop, Airflow, Cassandra.
 
