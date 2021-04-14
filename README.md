@@ -1,13 +1,12 @@
 ### Hi there!!! 😄
 
 
-I’m Bart and I’m a Data Scientist with over ⚡15 years' experience in finance. 
+I am an outcome-driven professional with nearly 20 years of international experience in finance, controlling, financial systems and data science. 
 
-A few things about me, I wrote my first code in Python to automate some financial reporting in my day-to-day job and got excited about Python and later Data Science so I know how to solve problems by my own using research and new technologies. On the technical side, during my data science studies I built few nice end-to-end Machine Learning Web Apps with django and deployment on Heroku in connection to AWS ([link](https://github.com/barto-ber/Machine-Learning-Projects)). I also started a project for analyzing an accountancy system with Machine Learning i.e. outliers detection as well as built a web scraper for a web radio I like.
+As a professional in finance, which is also based on data, and including my earlier studies of economics and statistics, I decided to extend my knowledge and dive into data science. I further developed my knowledge on statistics, learned Python and its most common data scientific libraries, studied machine learning and finished some interesting projects (see GitHub). This journey opened up my mind to new horizons and provided me with a fresh perspective on classical finance.
 
-In addition, I’m obsessed with digging deeper into Big Data. As a result, I’m currently learning some technologies like Apache Spark and Airflow to build an app with streaming data. I just finished a Big Data project with Kafka & Spark Structured Streaming for Sentiment Analysis ([link](https://github.com/barto-ber/Big-Data-Projects/tree/master/Structured%20Streaming%20Project)) and I found it fantastic.
+In addition to that, I have good skills in complex data manipulation, cleaning and exploratory analysis. I gained first experiences in successfully building complete machine learning projects. Moreover, I am fascinated by combining IT & business knowledge, promoting and supporting automation and data science.
 
+Furthermore, I have established financial departments from scratch, including: accountancy, controlling and reporting, creating efficient finance systems & infrastructure, focusing on eliminating manual work at every finance area using modern apps and own coding skills.
 
-- 🔭 I’m currently working on improvement of my Data Science & Machine Learning skills.
-- 🌱 I’m currently learning Apache Spark, Kafka, Hadoop, Airflow, Cassandra.
 
