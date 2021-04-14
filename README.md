@@ -1,4 +1,4 @@
-### Hi there!!! 😄
+### Hi there!!!
 
 
 I am an outcome-driven professional with nearly 20 years of international experience in finance, controlling, financial systems and data science. 
